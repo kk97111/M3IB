@@ -6,6 +6,7 @@ Requirement:
 python 3.6
 tensorflow-gpu==1.14.0
 #################################################################################
+download the data sets in https://pan.baidu.com/s/1RlVtrP4ytD67MSgBUI0cmQ?pwd=1111 with code: 1111
 The main.py describes the hyper-parameter of the proposed method, which can be summaried as follows:
 d: The dimension of embeddings.
 F: The number of most frequent patterns.
